@@ -1,0 +1,30 @@
+{
+  "name": "johnny-five_examples",
+  "version": "0.0.1",
+  "description": "Johnny Five examples for ikkuna/edu",
+  "main": "src/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikkunaEdu/johnn-five_examples.git"
+  },
+  "keywords": [
+    "johnny-five",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Diego Correa T.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikkunaEdu/johnn-five_examples/issues"
+  },
+  "homepage": "https://github.com/ikkunaEdu/johnn-five_examples#readme",
+  "devDependencies": {
+    "johnny-five": "^0.14.3"
+  }
+}
